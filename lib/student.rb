@@ -9,6 +9,6 @@ def initialize
   end
   
     def knowledge
-    self.knowledge
+    @knowledge
   end
 end
